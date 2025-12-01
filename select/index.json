@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "CINDERELLA BABY",
+  "base_artist": "JAKEN",
+  "createdAt": "2025-12-01T14:04:27.904296Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Cinderella-Baby",
+      "artist": "Drafi Deutscher",
+      "has_synced": true,
+      "path": "select/01_Cinderella-Baby_Drafi_Deutscher.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Cinderella Baby",
+      "artist": "Drafi Deutscher",
+      "has_synced": true,
+      "path": "select/02_Cinderella_Baby_Drafi_Deutscher.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Cinderella Baby",
+      "artist": "Drafi Deutscher",
+      "has_synced": false,
+      "path": "select/03_Cinderella_Baby_Drafi_Deutscher.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Cinderella Baby",
+      "artist": "Drafi Deutscher",
+      "has_synced": true,
+      "path": "select/04_Cinderella_Baby_Drafi_Deutscher.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Cinderella Baby",
+      "artist": "Drafi Deutscher",
+      "has_synced": true,
+      "path": "select/05_Cinderella_Baby_Drafi_Deutscher.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "CINDERELLA BABY",
+      "artist": "Jaken",
+      "has_synced": false,
+      "path": "select/06_CINDERELLA_BABY_Jaken.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "CINDERELLA BABY",
+      "artist": "JAKEN",
+      "has_synced": false,
+      "path": "select/pl_01_CINDERELLA_BABY_JAKEN.txt"
+    }
+  ]
+}
